@@ -26,15 +26,7 @@ A magical interactive Friendship Day experience where two glowing souls meet amo
 
 ---
 
-# 🎥 Preview
 
-<p align="center">
-
-<img src="Screenshot 2026-08-02 125256.png" width="900" alt="Friendship Day Demo">
-
-</p>
-
----
 
 # 📸 Screenshots
 
@@ -42,6 +34,9 @@ A magical interactive Friendship Day experience where two glowing souls meet amo
 
 <img src="Screenshot 2026-08-02 125059.png" width="47%">
 <img src="Screenshot 2026-08-02 125243.png" width="47%">
+<img src="Screenshot 2026-08-02 125256.png" width="48%" alt="Final Animation">
+
+
 
 </p>
 
