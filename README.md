@@ -72,17 +72,14 @@ A magical interactive Friendship Day experience where two glowing souls meet amo
 ```text
 friendship-day/
 │
-├── assets/
-│   ├── demo.gif
+├── Screenshot/
 │   ├── preview1.png
 │   ├── preview2.png
-│   └── favicon.png
 │
 ├── index.html
 ├── styles.css
 ├── script.js
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
